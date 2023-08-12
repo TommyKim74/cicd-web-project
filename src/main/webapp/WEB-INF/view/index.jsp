@@ -4,7 +4,7 @@
     <title>Spring Boot Application</title>
 </head>
 <body>
-	<h2>Test Jsp Page.....</h2>
+	<h2>Ansible-playbook test....</h2>
 	<div>
 		Hello, Spring Boot App
 	</div>
